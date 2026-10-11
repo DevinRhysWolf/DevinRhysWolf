@@ -1,1 +1,1 @@
-<img width="680" height="667" alt="0d96cc64fee06ceb9bf7d2dc292d9728" src="https://github.com/user-attachments/assets/35b13296-bc16-4025-900e-c3b7de6c8470" />
+$${\color{#879875}\textsf{Devin}}$${\color{#A5AF91}\textsf{ Wolf}}$${\color{#C4AD70}\textsf{ fiction-Kin}}$${\color{#777F72}\textsf{ . IWC}}$$
