@@ -1,4 +1,1 @@
-$${\color{#879875}\textsf{Devin}}$$
-$${\color{#A5AF91}\textsf{Wolf}}$$
-$${\color{#C4AD70}\textsf{fiction-Kin}}$$
-$${\color{#777F72}\textsf{. IWC}}$$
+$${\color{#879875}\textsf{D}}$${\color{#8F9F7E}\textsf{e}}$${\color{#A5AF91}\textsf{v}}$${\color{#B4B38B}\textsf{i}}$${\color{#C4AD70}\textsf{n}}$${\color{#B8AA7D}\textsf{ }}$${\color{#A5AF91}\textsf{W}}$${\color{#9AA78A}\textsf{o}}$${\color{#879875}\textsf{l}}$${\color{#777F72}\textsf{f}}$${\color{#8D9076}\textsf{ }}$${\color{#A5AF91}\textsf{f}}$${\color{#B4B38B}\textsf{i}}$${\color{#C4AD70}\textsf{c}}$${\color{#B8AA7D}\textsf{t}}$${\color{#A5AF91}\textsf{i}}$${\color{#879875}\textsf{o}}$${\color{#777F72}\textsf{n}}$${\color{#8D9076}\textsf{-}}$${\color{#A5AF91}\textsf{K}}$${\color{#B4B38B}\textsf{i}}$${\color{#C4AD70}\textsf{n}}$${\color{#B8AA7D}\textsf{ }}$${\color{#A5AF91}\textsf{.}}$${\color{#879875}\textsf{ }}$${\color{#777F72}\textsf{I}}$${\color{#A5AF91}\textsf{W}}$${\color{#C4AD70}\textsf{C}}$$
